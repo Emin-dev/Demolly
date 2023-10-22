@@ -1,6 +1,4 @@
 declare var $: any;
-
-// Declare the types directly
 declare type JQueryEvent = any;
 declare type JQueryHTMLElement = any;
 
